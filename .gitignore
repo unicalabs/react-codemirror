@@ -29,3 +29,6 @@ example/dist
 *.sublime-*
 .idea/
 *.DS_Store
+
+# as a temporary fix, gitignore src
+src
