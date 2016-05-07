@@ -20,9 +20,6 @@ node_modules
 .publish
 example/dist
 
-# lib
-lib
-
 # Editor and other tmp files
 *.swp
 *.un~
